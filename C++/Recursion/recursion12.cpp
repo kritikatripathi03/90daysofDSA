@@ -17,6 +17,6 @@ void keypadwaalaphone(string s, string ans){
 
 }
 int main(){
-    keypadwaalaphone("23","");
+    keypadwaalaphone("5748452","");
     return 0;
 }
